@@ -33,3 +33,8 @@ def selectionSort(arr):
     return newArr
 
 print(selectionSort([5, 3, 6, 2, 10]))
+
+
+
+#array and linked list : asosiy g'oya ruyxatdan eng kichigini topish va birinchiga utkazish 
+ 
